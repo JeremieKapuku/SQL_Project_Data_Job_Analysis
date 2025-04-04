@@ -57,7 +57,8 @@ Here's the breakdown of the top data analyst jobs in 2023:
 - **Diverse Employers:** Companies like SmartAsset, Meta, and AT&T are among those offering high salaries, showing a broad interest across different industries.
 - **Job Title Variety:** There's a high diversity in job titles, from Data Analyst to Director of Analytics, reflecting varied roles and specializations within data analytics.
 
-![Top Paying Roles](assets\1_top_paying_roles.png) 
+![Top Paying Roles](assets\1_top_paying_roles.png)
+
 *Bar graph visualizing the salary ffor the top 10 salaries for data analysts; ChatGPT generated this graph for my SQL query results*
 
 ### 2. Skills for Top Paying Jobs
@@ -96,7 +97,7 @@ Here's the breakdown of the most demanded skills for the top 10 highest paying d
 
 - **SQL** is leading with a bold count of 8.
 - **Python** follows closely with a bold count of 7
-- **Tableau** is also highly sought after, with a bold count of 6. Other skills like **R**,**Snowflake**,**Pandas**, and **Excel** show varying degrees of demand.
+- **Tableau** is also highly sought after, with a bold count of 6. Other skills like **R**, **Snowflake**, **Pandas**, and **Excel** show varying degrees of demand.
 
 ![Top Paying Skills](assets\2_top_paying_job_skills.png)
 
@@ -244,6 +245,6 @@ From the analysis, several general insights emerged:
 4. **Skills with Higher Salaries:** Specialized skills such as SVN and Solidity are associated with the highest average salaries, indicating a premium on niche expertise.
 5. **Optimal Skills for Job Market Value:** SQL leads in demand and offers for a high average salary, positioning it as one of the most optimal skills for data analysts to learn to maximize their market value.
 
-### CLosing Thoughts
+### Closing Thoughts
 
 This project enhanced my SQL Skills and provided valuable insights into the data analyst job market. The findings from the analysis server as a guide to priortizing skill development and job search efforts. Aspiring data analysts can better position themselves in a competitive job market by focusing on high-demand, high-salary skills. This exploration highlights the importance of continuous learning and adaptation to emerging trends in the field of data analytics.
